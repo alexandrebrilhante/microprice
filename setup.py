@@ -5,10 +5,10 @@ with open("README.md", "r", encoding="utf-8") as f:
 
 setuptools.setup(
     name="microprice",
-    version="0.1.0",
+    version="0.1.1",
     author="Alexandre Brilhante",
     author_email="alexandre.brilhante@gmail.com",
-    description="A Jax implementation implementation of Micro-Price: A High Frequency Estimator of Future Prices.",
+    description="A Jax implementation of Micro-Price: A High Frequency Estimator of Future Prices.",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/alexandrebrilhante/quantnet",
