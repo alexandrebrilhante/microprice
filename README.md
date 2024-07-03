@@ -21,5 +21,5 @@ mpe = MicroPriceEstimator(symbol="AAPL",
 
 T = mpe.load(load_sample_data())
 
-mpe.fit(T, iterations(6))
+mpe.fit(T, iterations=6)
 ```
