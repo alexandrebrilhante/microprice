@@ -11,7 +11,7 @@ setuptools.setup(
     description="A Jax implementation of Micro-Price: A High Frequency Estimator of Future Prices.",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/alexandrebrilhante/quantnet",
+    url="https://github.com/alexandrebrilhante/microprice",
     project_urls={
         "Bug Tracker": "https://github.com/alexandrebrilhante/microprice/issues",
     },

@@ -1,7 +1,7 @@
 # microprice
 
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/microprice)
-![GitHub](https://img.shields.io/github/license/alexandrebrilhante/quantnet)
+![GitHub](https://img.shields.io/github/license/alexandrebrilhante/microprice)
 
 A Jax implementation of [Micro-Price: A High Frequency Estimator of Future Prices](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2970694).
 
