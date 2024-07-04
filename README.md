@@ -1,5 +1,6 @@
 # microprice
 
+[![Python](https://github.com/alexandrebrilhante/microprice/actions/workflows/python-package.yml/badge.svg)](https://github.com/alexandrebrilhante/microprice/actions/workflows/python-package.yml)
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/microprice)
 ![GitHub](https://img.shields.io/github/license/alexandrebrilhante/microprice)
 

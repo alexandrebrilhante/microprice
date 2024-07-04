@@ -7,7 +7,7 @@ from microprice import MicroPriceEstimator
 
 
 class TestMicroPriceEstimator(unittest.TestCase):
-    def set_up(self):
+    def setUp(self):
         self.estimator = MicroPriceEstimator("AAPL")
 
     def test_load_sample_data(self):
